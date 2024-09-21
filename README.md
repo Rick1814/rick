@@ -1,0 +1,2 @@
+# rick
+my personal repository
